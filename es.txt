@@ -1,12 +1,6 @@
 abeja
 araña
-burro
-burra
-cabra
-cebra
-cerdo
-cerda
-cisne
+armadura
 erizo
 gallo
 mosca
@@ -16,3 +10,5 @@ pulpo
 ratón
 zorro
 zorra
+Metalica
+Scary
